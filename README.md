@@ -18,8 +18,9 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reyhanehraisi&show_icons=true&locale=en&layout=compact" alt="Reyhanehraisi" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Reyhanehraisi&" alt="Reyhanehraisi" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Reyhanehraisi&" alt="Reyhanehraisi" />
 </div>
+
 
 
 

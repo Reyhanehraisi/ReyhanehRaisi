@@ -5,8 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reyhanehraisi@gmail.com)
 
 
-- The researcher is in the field of neuro-architecture and neuro-landscape architecture, working with neurological and physiological data.
-- Degital landscape
+- The researcher is in the field of **neuro-architecture** and **neuro-landscape** architecture, working with neurological and physiological data.
+- **Degital landscape**
 
 
 ### Tech Stack

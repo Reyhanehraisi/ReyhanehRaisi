@@ -9,7 +9,7 @@
 - Degital landscape
 
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
 

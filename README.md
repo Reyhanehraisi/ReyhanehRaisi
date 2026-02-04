@@ -6,7 +6,7 @@
 
 
 - The researcher is in the field of **neuro-architecture** and **neuro-landscape** architecture, working with neurological and physiological data.
-- **Degital landscape**
+- **Degital Landscape Architecture**
 
 ### My Programming Languages
 - Python
